@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-MAINTAINER lilei <mylyed@163.com>
+MAINTAINER lilei
 VOLUME /tmp
 ARG JAR_FILE
 ADD target/${JAR_FILE} app.jar
