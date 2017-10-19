@@ -10,7 +10,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <docker.image.prefix>d.d</docker.image.prefix>
+        <docker.image.prefix>docker.xgqqg.com</docker.image.prefix>
     </properties>
 
 
